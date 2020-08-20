@@ -1,0 +1,11 @@
+{
+  "name": "bythealphabet-template",
+  "version": "1.0.0",
+  "description": "template using MERN Stack with SSR, Emotionjs, Babel and Webpack.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dudley Isaac Lucas",
+  "license": "MIT"
+}
